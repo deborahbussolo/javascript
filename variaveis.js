@@ -49,3 +49,4 @@ console.log("> qual o valor da const z nesse scope?", z)
 }
 //o valor da const é fixa, mas pode haver const com o mesmo nome em SCOPE DIFERENTES.
 
+//JavaScript é case-sensitive
